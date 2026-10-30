@@ -1,0 +1,6 @@
+/* This basic CSS file sets the background color and text color for the entire page */
+
+body {
+    background-color: black; /* Background Color */
+    color:white;
+}
